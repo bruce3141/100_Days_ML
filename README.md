@@ -10,3 +10,17 @@ Compared hyper-parameter optimization performance for a simple SVR (over C and g
 More work on hyper-param tuning:  used a grid search to map out SVR regressor performance as a function of the hyper-parameters: C and gamma. Compared final results with HyperOpt.  Great visualization tool (but slow) for mapping out global performance.
 
 **Link:** https://github.com/bruce3141/100_days_ML/blob/master/day_2.ipynb
+
+
+# Day 3:
+
+Day-3: Completed a Genetic Algorithm that optimizes ML hyper-parameters (simple SVR over C and gamma).  Wow, can really see why Bayes optimizers are so popular, the GA is crazy expensive. The “cool-algo” of 90’s is perhaps not the best tool for the job.
+
+**Link:** https://github.com/bruce3141/100_days_ML/blob/master/day-3.py
+
+
+# Day 4:
+
+Day-4:
+
+**Link:**
