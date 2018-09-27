@@ -23,7 +23,10 @@ Day-4: More work using the Genetic Algorithm that optimizes ML hyper-parameters 
 
 
 # Day 5:
+Started reading a great book (at the recommendation of my brother): Blondie24 (https://www.amazon.com/Blondie24-Playing-Kaufmann-Artificial-Intelligence/dp/1558607838). Completed webinars/tutorials by @LucenaResearch, @sirajraval, and @deeplizard on Reinforcement Learning. Installed OpenAI Gym and made progress on the Frozen Lake problem. Tested a custom Keras regression metric: RMSE.
 
-Day-5:
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-6:
 
 **Link:**
