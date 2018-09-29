@@ -28,5 +28,41 @@ Started reading a great book (at the recommendation of my brother): Blondie24 (h
 **Link:** https://github.com/bruce3141/100_days_ML
 
 # Day-6:
+Day-6: Early OOS backtest from my quant trading code looks promising (haha, my hobby). Learning from Jedi Master: @VolatilityQ. Also upgraded tools to OSX Mohave and Python 3.7. Watched latest webinars on Data Science by @jstauth and @deeplizard, super cool.
 
-**Link:**
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-7:
+
+
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-8:
+
+
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-9:
+
+
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-10:
+
+
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-11:
+
+
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-12:
+
+
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-13:
+
+
+**Link:** https://github.com/bruce3141/100_days_ML
