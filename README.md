@@ -33,7 +33,7 @@ Day-6: Early OOS backtest from my quant trading code looks promising (haha, my h
 **Link:** https://github.com/bruce3141/100_days_ML
 
 # Day-7:
-
+Completed additional work using Hyperopt (a Bayesian parameter tuning framework) https://hyperopt.github.io/hyperopt/. Helped to refine the architecture for an MLP for 2-d data processing. Hyperopt saves a ton of time, I wrote my own optimizer because I thought I could do better but you end up chasing your tail in a lot of these cases, still learned a lot though! Happy with intermediate results.
 
 **Link:** https://github.com/bruce3141/100_days_ML
 
