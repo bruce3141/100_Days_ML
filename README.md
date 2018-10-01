@@ -38,7 +38,7 @@ Completed additional work using Hyperopt (a Bayesian parameter tuning framework)
 **Link:** https://github.com/bruce3141/100_days_ML
 
 # Day-8:
-
+More progress with the Bayesian parameter tuning framework (https://hyperopt.github.io/hyperopt/) as applied to my MLP architecture for 2-d data processing.  Interesting results so far.
 
 **Link:** https://github.com/bruce3141/100_days_ML
 
