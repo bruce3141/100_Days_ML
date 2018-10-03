@@ -43,12 +43,12 @@ More progress with the Bayesian parameter tuning framework (https://hyperopt.git
 **Link:** https://github.com/bruce3141/100_days_ML
 
 # Day-9:
-
+More work on hyperparameter tuning: got several new cases running now, definitely can take a while, will check back in morning. In the meantime examining log-loss convergence and making correspondence with network performance.
 
 **Link:** https://github.com/bruce3141/100_days_ML
 
 # Day-10:
-
+More work on hyperparameter tuning for my application: Jupyter notebooks keep crashing with "out of memory" errors, a bit frustrating since each calc can take > 2hrs.  Had to scale back sampling, need to het some GPUs running!
 
 **Link:** https://github.com/bruce3141/100_days_ML
 
