@@ -52,17 +52,34 @@ More work on hyperparameter tuning for my application: Jupyter notebooks keep cr
 
 **Link:** https://github.com/bruce3141/100_days_ML
 
-# Day-11:
-
+# Day-11:  
+Built k-fold cross validation into my hyper-param optimizer, the gold standard for ML model evaluation! Results: tuned architecture performs 5x better than then a naive architecture.  Persistence pays off (or maybe its just OCD).
 
 **Link:** https://github.com/bruce3141/100_days_ML
 
 # Day-12:
-
+Worked on an eGPU setup using a GTX 1080 on my Mac, never did get it to work. Its possible but getting NVIDIA to work on OSX is a hack and TensorFlow with GPUs is not even supported on OSX beyond Ver. 1.2!  Geez, I’m running Ver. 1.10.1.
 
 **Link:** https://github.com/bruce3141/100_days_ML
 
 # Day-13:
+Finalized an initial comparison (for my specific app) between a naive Multi-Layer-Perception (MLP), a somewhat optimized MLP, and then a Convolutional Neural Network (CNN)  Big performance differences with the CNN winning hands down!
 
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-14:
+Worked on Hidden Markov Models and also wrote a basic sentiment analyzer with custom search terms applied to my Twitter feed; some of these headlines cracked me up, e.g., see the one on Tesla.
+
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-15:
+
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-16:
+
+**Link:** https://github.com/bruce3141/100_days_ML
+
+# Day-17:
 
 **Link:** https://github.com/bruce3141/100_days_ML
